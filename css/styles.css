@@ -6,9 +6,8 @@
 }
 
 header {
-  background-color: #e100d2;
-  color: #4623d1;
+  background-color: hsl(304, 100%, 44%);
+  color: hsl(0, 0%, 100%);
   padding: 40px;
   text-align: center;
-  font-family:'Times New Roman', Times, serif;
 }
