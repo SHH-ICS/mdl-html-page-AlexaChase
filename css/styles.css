@@ -5,9 +5,9 @@
   opacity: 0.001;
 }
 
-header {
-  background-color: hsl(304, 100%, 44%);
-  color: hsl(0, 0%, 100%);
+.header {
+  background-color: #e000d1;
+  color: #ffffff;
   padding: 40px;
   text-align: center;
 }
