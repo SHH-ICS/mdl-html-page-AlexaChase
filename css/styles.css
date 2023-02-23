@@ -12,7 +12,8 @@ body {
 h1 {
   background-color: #e000d1;
   color: #fff;
-  padding: 40px;
+  padding: 60px;
   text-align: center;
-  font-size: large;
+  font-size: larger;
+  font-weight:bold;
 }
