@@ -4,3 +4,11 @@
   background: #000;
   opacity: 0.001;
 }
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #18b5ee;
+  color: white;
+  font-size: 15px;
+}
